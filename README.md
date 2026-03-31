@@ -47,4 +47,10 @@ Analyze delivery performance in an e-commerce dataset to identify delays, ineffi
 ## 🚀 Future Improvements
 - Build delivery time prediction model  
 - Add more granular regional analysis  
-- Develop dashboard for monitoring delivery performance  
+- Develop dashboard for monitoring delivery performance
+
+## 📊 Dataset
+The dataset used in this project is a public dataset from Olist:
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+Note: Only a sample dataset is provided in this repository.
