@@ -38,12 +38,6 @@ Analyze delivery performance in an e-commerce dataset to identify delays, ineffi
 - Supports optimization of logistics and distribution strategy  
 - Provides insights to improve **customer experience and retention**
 
-## 📁 Project Structure
-- `sql/` → SQL queries  
-- `analysis.ipynb` → data analysis and visualization  
-- `data/` → dataset (or sample data)  
-- `README.md` → documentation  
-
 ## 🚀 Future Improvements
 - Build delivery time prediction model  
 - Add more granular regional analysis  
