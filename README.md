@@ -5,6 +5,8 @@ Analyze delivery performance in an e-commerce dataset to identify delays, ineffi
 
 ## 📊 Dataset
 - Source: Brazilian E-commerce Public Dataset (Olist)
+- The dataset used in this project is a public dataset from Olist:
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 - Data includes:
   - Orders
   - Customers
@@ -42,9 +44,3 @@ Analyze delivery performance in an e-commerce dataset to identify delays, ineffi
 - Build delivery time prediction model  
 - Add more granular regional analysis  
 - Develop dashboard for monitoring delivery performance
-
-## 📊 Dataset
-The dataset used in this project is a public dataset from Olist:
-https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
-
-Note: Only a sample dataset is provided in this repository.
